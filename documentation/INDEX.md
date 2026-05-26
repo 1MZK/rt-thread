@@ -2,6 +2,8 @@
 
 @subpage page_introduction
 
+@subpage page_reading_roadmap
+
 @subpage page_quick_start
 
 @subpage page_kernel_core
